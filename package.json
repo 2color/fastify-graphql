@@ -36,7 +36,7 @@
     "fastify-plugin": "3.0.0",
     "graphql": "15.5.0",
     "graphql-scalars": "1.9.0",
-    "mercurius": "7.4.0",
+    "mercurius": "7.9.1",
     "nexus": "1.1.0",
     "nexus-prisma": "0.34.0"
   },
