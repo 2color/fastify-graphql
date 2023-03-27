@@ -30,7 +30,7 @@
     "@prisma/client": "3.6.0",
     "@sentry/node": "6.2.5",
     "@sentry/tracing": "6.2.5",
-    "altair-fastify-plugin": "4.0.0",
+    "altair-fastify-plugin": "4.5.0",
     "dotenv": "8.2.0",
     "fastify": "3.14.2",
     "fastify-plugin": "3.0.0",
